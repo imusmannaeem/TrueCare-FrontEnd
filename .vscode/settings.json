@@ -1,0 +1,9 @@
+{
+    "azureAutomation.directory.basePath": "c:\\Program Files\\Microsoft VS Code",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/e09e8db9-bd86-48ae-8eeb-eda17abcc24a/resourceGroups/spring/providers/Microsoft.Web/sites/turecare-fe",
+    "appService.deploySubpath": "."
+}
